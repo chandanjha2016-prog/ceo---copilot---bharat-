@@ -1,1 +1,11 @@
 
+{
+  "name": "ceo-copilot-bharat",
+  "version": "1.0.0",
+  "description": "AI CEO Assistant for Indian Founders. 1 Second Business Decisions.",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
+  "dependencies": { "react": "^18.2.0", "react-dom": "^18.2.0" },
+  "devDependencies": { "@vitejs/plugin-react": "^4.0.0", "vite": "^4.4.0" },
+  "author": "Your Name - AI App Factory Bharat",
+  "license": "MIT"
+}
